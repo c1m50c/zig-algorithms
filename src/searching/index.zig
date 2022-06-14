@@ -1,0 +1,1 @@
+pub const linear_search = @import("linear.zig").linear_search;
